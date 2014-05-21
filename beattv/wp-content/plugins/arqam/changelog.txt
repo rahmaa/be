@@ -1,0 +1,76 @@
+*** Arqam Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.3.0 - 08-12-2013
+- Added: Linkedin Groups Members Counter .
+
+-------------------------------------------------------------------------
+
+Version 1.2.0 - 04-12-2013
+- Added: Linkedin Companies Followers Counter .
+- Added: VK Communities Members Counter .
+- Added: Posts Number Counter .
+- Added: Comments Number Counter .
+- Added: Custom css code area .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.4 - 20-10-2013
+- Fixed: Google+ Counter issue .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.3 - 10-10-2013
+- Fixed: Google+ Counter issue, Now you need to enter your google page ID in Arqam panel.
+- Updated: Languages Files .
+- Updated: Plugin's Documentations .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 15-08-2013
+- Fixed: Twitter Counter issue .. Now you need to set your APP Consumer key and Consumer secret  .
+- Improved: some styles issues .
+- Updated: Languages Files .
+- Updated: Plugin's Documentations .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.1 - 05-08-2013
+- Fixed: Mailchimp Counter bug .
+
+Files Updated
+- arqam.php
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 31-07-2013
+- Added: Foursquare Friends counter .
+- Added: Instagram Followers counter .
+- Added: MailChimp Subscribers counter.
+- Improved: Google plus and Cache functions .
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release

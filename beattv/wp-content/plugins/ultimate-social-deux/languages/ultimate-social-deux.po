@@ -1,0 +1,329 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2014-01-10 03:06+0100\n"
+"PO-Revision-Date: 2014-01-10 03:06+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-ultimate-social-deux-admin.php:118
+msgid "Basic Settings"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:122
+msgid "Mail Settings"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:126
+msgid "Placement Settings"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:140
+msgid "Facebook"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:141
+msgid "Twitter"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:142
+msgid "Google Plus"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:143
+msgid "Pinterest"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:144
+msgid "LinkedIn"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:145
+msgid "StumbleUpon"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:146
+msgid "Delicious"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:147
+msgid "Mail"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:153
+msgid "Tweet via: @"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:154
+msgid "Write your Twitter username here to be mentioned in visitors tweets"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:159
+msgid "Default Pinterest Image"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:160
+msgid "Image that is passed if a post have no images"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:168
+msgid "Mail From:"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:169
+msgid "Email address that mail form will email from"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:175
+msgid "Mail From Name:"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:176
+msgid "Name that mail form will email with"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:182
+msgid "Mail Subject:"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:183
+msgid ""
+"Subject of email.<br>Available tags is: <br>{post_title} -> Outputs title of "
+"the post or page<br>{post_url} -> Outputs url of the post or page<br>"
+"{post_author} -> Outputs the author of the post or page<br>{site_title} -> "
+"Outputs the title of the Wordpress Install<br>{site_url} -> Outputs the url "
+"of the Wordpress Install"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:185
+#: ../public/class-ultimate-social-deux-public.php:888
+msgid "A visitor of {site_title} shared {post_title} with you."
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:189
+msgid "Mail Message:"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:190
+msgid ""
+"Body of email. Available tags is: <br>{post_title} -> Outputs title of the "
+"post or page<br>{post_url} -> Outputs url of the post or page<br>"
+"{post_author} -> Outputs the author of the post or page<br>{site_title} -> "
+"Outputs the title of the Wordpress Install<br>{site_url} -> Outputs the url "
+"of the Wordpress Install"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:192
+#: ../public/class-ultimate-social-deux-public.php:830
+msgid ""
+"I read this article and found it very interesting, thought it might be "
+"something for you. The article is called {post_title} and is located at "
+"{post_url}."
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:196
+msgid "Send copy to admin?"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:200
+#: ../admin/class-ultimate-social-deux-admin.php:210
+msgid "Yes"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:201
+#: ../admin/class-ultimate-social-deux-admin.php:211
+msgid "No"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:206
+msgid "Enable Captcha?"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:216
+msgid "Captcha Question"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:217
+msgid "Your captcha question"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:219
+#: ../public/class-ultimate-social-deux-public.php:833
+msgid "What is the sum of 7 and 2?"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:223
+msgid "Captcha Answer"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:224
+msgid "Your captcha answer"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:226
+msgid "9"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:230
+msgid "Success message"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:231
+msgid "For successful sent email"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:233
+#: ../public/class-ultimate-social-deux-public.php:96
+msgid "Great work! Your message was sent."
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:240
+msgid "Floating"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:255
+msgid "Top of Pages"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:270
+msgid "Bottom of Pages"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:285
+msgid "Top of Posts"
+msgstr ""
+
+#: ../admin/class-ultimate-social-deux-admin.php:300
+msgid "Bottom of Posts"
+msgstr ""
+
+#: ../includes/plugin-updater.php:304
+msgid "An Unexpected HTTP Error occurred during the API request."
+msgstr ""
+
+#: ../includes/plugin-updater.php:304 ../includes/plugin-updater.php:469
+msgid "Try again"
+msgstr ""
+
+#: ../includes/plugin-updater.php:345
+msgid "An unknown error occurred"
+msgstr ""
+
+#: ../includes/plugin-updater.php:381
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please reactivate "
+"it manually."
+msgstr ""
+
+#: ../includes/plugin-updater.php:382
+msgid "Plugin reactivated successfully. "
+msgstr ""
+
+#: ../includes/plugin-updater.php:404
+msgid " Plugin Updates"
+msgstr ""
+
+#: ../includes/plugin-updater.php:443
+msgid "Username: "
+msgstr ""
+
+#: ../includes/plugin-updater.php:447
+msgid "Email: "
+msgstr ""
+
+#: ../includes/plugin-updater.php:453
+msgid "Key: "
+msgstr ""
+
+#: ../includes/plugin-updater.php:459
+msgid "<p>Your plugin update is <span style=\"color:green\">active</span></p>"
+msgstr ""
+
+#: ../includes/plugin-updater.php:463
+msgid ""
+"<p>Your input is <span style=\"color:red\">not valid</span>, automatic "
+"updates is <span style=\"color:red\">not active</span>.</p>"
+msgstr ""
+
+#: ../includes/plugin-updater.php:464
+msgid "Edit Key"
+msgstr ""
+
+#: ../includes/plugin-updater.php:468
+msgid "<p>Unable to validate update activation.</p>"
+msgstr ""
+
+#: ../includes/plugin-updater.php:474
+msgid "Add Key"
+msgstr ""
+
+#: ../includes/plugin-updater.php:559
+msgid "User name"
+msgstr ""
+
+#: ../includes/plugin-updater.php:565
+msgid "Email"
+msgstr ""
+
+#: ../includes/plugin-updater.php:574
+msgid "Activation Key"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:837
+msgid "Share with your friends"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:838
+msgid "Your Name"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:839
+msgid "Your Email"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:840
+msgid "Recipient Email"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:841
+msgid "Enter a Message"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:842
+msgid "Captcha"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:901
+msgid "Captcha cannot be empty!"
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:903
+msgid "Captcha does not match."
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:907
+msgid "Recipient email address is not valid."
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:909
+msgid "Your email address is not valid."
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:911
+msgid "Your name cannot be empty."
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:913
+msgid "Message cannot be empty."
+msgstr ""
+
+#: ../public/class-ultimate-social-deux-public.php:933
+msgid "Unknown wp_mail() error."
+msgstr ""
